@@ -1,5 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-![Header](./github-header-image.png)
+<img src= "github-header-image.png" />
 <div align="center">
 
 ### 💫 About Me:
