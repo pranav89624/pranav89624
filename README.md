@@ -19,7 +19,7 @@ Hi, I'm Pranav Verma! 👋
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav_____verma)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav_____verma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-verma12340987)
 
 # 💻 Tech Stack:
